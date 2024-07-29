@@ -1,2 +1,3 @@
 # ColdAirFlowModelling_KLAM_Tuebingen_Geography
-![Image]([https://github.com/your-username/your-repository/blob/main/logo.png](https://github.com/geophili/ColdAirFlowModelling_KLAM21_UniTuebingen_Geography/blob/main/KLAM_MapExport.png))
+
+![KLAM_MapExport](https://github.com/user-attachments/assets/74cb0aa1-a810-479b-8f80-3643bbee2605)
